@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1648718080 source:d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"header.hpp"
+	"assignment.hpp"
+
+1641881843 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1641881843 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1648526950 d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\header.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1648918295 d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\assignment.hpp
+	"header.hpp"
+	<time.h>
+	<vector>
+	<fstream>
+
+1648732238 source:d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\assignment.cpp
+	<GL/glut.h>
+	"assignment.hpp"
+	<time.h>
+	"BmpLoader.h"
+
+1647869158 source:d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\testing.cpp
+
+1647961235 source:d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\stb_image.c
+
+1648039446 d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\bmploader.h
+	<windows.h>
+
+1648040094 source:d:\mmu\2020 - 2021 bachelor in computer science ( hons.)\year 2 sem 2\tgd2151 - computer graphics fundamentals\assignment\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
